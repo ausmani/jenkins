@@ -1,5 +1,5 @@
 # Jenkings build status
-<a href='http://localhost:8080/job/fibonaci-seq/'><img src='http://localhost:8090/buildStatus/icon?job=fibonaci-seq'></a>
+[![Build Status](http://localhost:8090/buildStatus/icon?job=fibonaci-seq)](http://localhost:8080/job/fibonaci-seq/)
 # Jenkins Essential Training
 This is the repository for the LinkedIn Learning course Jenkins Essential Training. The full course is available from [LinkedIn Learning][lil-course-url].
 
